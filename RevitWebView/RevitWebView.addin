@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitWebView</Name>
+    <Description>Testing Outer Space</Description>
+    <Assembly>RevitWebView\RevitWebView.dll</Assembly>
+    <FullClassName>RevitWebView.RevitWebView</FullClassName>
+    <ClientId>5AE0BD71-CDE6-40DC-8A9B-AB227DE75A52</ClientId>
+    <VendorId>pasta</VendorId>
+    <VendorDescription>More Pasta Please.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
