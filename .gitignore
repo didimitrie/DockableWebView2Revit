@@ -1,3 +1,8 @@
+.vs
 packages
-RevitWebView/bin
-RevitWebView/obj
+RevitWebView2020/bin
+RevitWebView2020/obj
+RevitWebView2021/bin
+RevitWebView2021/obj
+RevitWebView2023/bin
+RevitWebView2023/obj
